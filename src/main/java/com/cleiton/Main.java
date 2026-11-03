@@ -223,7 +223,7 @@ public class Main extends Application {
 
         for (PrintService impressora : impressoras) {
             if (impressora.getName().equalsIgnoreCase(
-                    "IMPRESSORA_MIQ")) {
+                    "Impressora_padrao")) {
 
                 comboImpressoras.getSelectionModel()
                         .select(impressora);
