@@ -1,0 +1,19 @@
+# Arquivos gerados pelo Maven
+target/
+
+# Arquivos temporários do Java
+*.class
+
+# Arquivos de log
+*.log
+
+# Configurações locais de IDE
+.metadata/
+.settings/
+.project
+.classpath
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
